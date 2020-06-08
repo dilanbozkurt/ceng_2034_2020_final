@@ -1,3 +1,5 @@
+#DİLAN BOZKURT 170709020
+
 #question 1
 import os
 child= os.fork()
