@@ -16,14 +16,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 
-import org.w3c.dom.Text;
 
-import java.util.List;
-
-public class Adapter extends RecyclerView.Adapter<Adapter.myViewHolder> {
-
-    Context mContext;
-    List<item> mData;
 
 
     public Adapter(Context mContext, List<item> mData) {
